@@ -6,13 +6,9 @@
 - **Functions used** :
 CREATE, INSERT, SELECT, SUM, COUNT, AVG, MAX, JOINS, GROUP BY, CTE, SUBQUERIES, CONCAT, LIKE, CASE, ORDER BY ETC.
 
-- **Schema Used**: [university]
-<br>
-
-![image](https://github.com/din3shn/DA_Portfolio_Proj/assets/160537914/58cc9532-2394-46fb-b1da-6b20e4f4777a)
-
-The provided schema represents a university database. It outlines the relationships between various entities such as students, instructors, departments, courses, and more.<br>
-- **Key relationships include**:<br>
+- **Schema Used**: [university](https://github.com/din3shn/DA_Portfolio_Proj/blob/main/SQL_University_Project/university_schema.md)<br>
+  The provided schema represents a university database. It outlines the relationships between various entities such as students, instructors, departments, courses, and more.<br>
+   - **Key relationships include**:<br>
   - Students taking courses, represented by the “takes” entity.
   - Instructors teaching specific sections of courses, represented by the “teaches” entity.
   - Courses having prerequisites, represented by the “prereq” entity. <br>
