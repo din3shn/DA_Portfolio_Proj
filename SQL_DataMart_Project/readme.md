@@ -1,7 +1,7 @@
 # SQL Data Cleansing and Analysis.
 
-- **Intro** : The data used in this dataset is the sales data of a store for a period of time with multiple platforms and segments.
-Added a few columns to the dataset to simplify the exploration process. Exploration is based on a few questions which you can find below 👇🏻.
+- **Intro** : This project involves analyzing a store's sales data across multiple platforms and segments using SQL. The process begins with data cleaning to ensure data quality and to simplify the further process. Then, we use SQL queries to answer specific questions about sales trends, customer behavior, and more. The aim is to demonstrate the use SQL in data cleaning and analysis, to derive valuable business insights.
+   - This project was done on MySQL Workbench.</sub>
 
 - **Functions used** :
 CREATE, INSERT, UPDATE, SELECT, SUM, COUNT, AVG, MAX, GROUP BY, CTE, SUBQUERIES, STORED PROCEDURE, AUTO INCREMENT, PARTITION BY ETC.
@@ -18,7 +18,7 @@ CREATE, INSERT, UPDATE, SELECT, SUM, COUNT, AVG, MAX, GROUP BY, CTE, SUBQUERIES,
       transactions | int
              sales | int
 
-- ### Data Cleansing Problem: 
+- ## Data Cleansing Problem: 
 
 In a single query, generate a new table in 
 the data_mart schema named clean_weekly_sales and perform the following operations: 
@@ -49,7 +49,7 @@ the data_mart schema named clean_weekly_sales and perform the following operatio
 **7**. Generate a new avg_transaction column rounded to 2 decimal places.
 
 
-- ### Data Analysis Problems : 
+- ## Data Analysis Problems : 
 
 **1**. Which week numbers are missing from the dataset?
 
