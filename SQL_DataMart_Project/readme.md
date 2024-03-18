@@ -7,7 +7,7 @@
 -       CREATE, INSERT, UPDATE, SELECT, SUM, COUNT, AVG, MAX,
         GROUP BY, CTE, SUBQUERIES, STORED PROCEDURE, AUTO INCREMENT, PARTITION BY ETC.
 
-- **Schema Used**: weekly_data_sales  
+- **Schema Used**: [weekly_data_sales](https://github.com/din3shn/DA_Portfolio_Proj/blob/main/SQL_DataMart_Project/data_mart_schema.sql)
 
                         Column | Data type
                   
