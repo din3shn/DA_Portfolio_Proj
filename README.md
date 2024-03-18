@@ -9,9 +9,27 @@ Feel free to explore the projects and reach out if you have any questions or fee
 # Projects
 
    ### SQL 
-[Data Cleansing and Exploration](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_DataMart_Project) .
+[Data Cleansing and Exploration](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_DataMart_Project).
 
-   - This SQL project focuses on the analysis of sales data from a retail store over a specific period of time.
-   - The dataset contains information about the store’s sales activities across different platforms and customer segments.
-   - The starting steps involve Data Cleansing to simplify the analysis process.
-   - The next steps showcase analysis of the data based on a few questions.
+   - This Sales Analysis project involves analyzing a sales dataset using SQL. <br>
+   - The project focuses on understanding the relationships between various entities in the sales domain. <br>
+   - Key operations performed include data manipulation, and analysis using SQL functions. <br>
+   - The goal of the project is to derive meaningful insights from the data that can help in decision-making processes within the sales domain.<br>
+   - The core of the project involves writing complex SQL queries to extract insights from the data. <br> 
+   - These queries make extensive use of SQL functions like SELECT, SUM, COUNT, AVG, MAX, and GROUP BY to perform detailed analysis.<br>
+   - Advanced SQL features are also utilized, such as Common Table Expressions (CTEs), subqueries, and stored procedures, PARTITION BY to handle more complex queries and improve readability.
+     
+The goal of the project is to answer specific business questions that can help in decision-making processes within the sales domain. This project serves as a practical demonstration of applying SQL skills to a real-world scenario, showcasing the power of SQL in handling and analyzing large datasets.
+<br>
+
+### SQL
+[Exploratory Data Analysis - EDA](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_University_Project).
+
+   - This SQL project involves analyzing a comprehensive university database.
+   - The database schema includes various entities representing different aspects of a university’s operations such as students, instructors, departments, and courses etc.
+   - The project primarily focuses on understanding the relationships between these entities.
+   - Key operations performed include data extraction using complex SQL queries, data manipulation, and data analysis.
+   - The queries extensively use SQL features like JOINS, aggregate functions, and the GROUP BY clause.
+   - The goal of the project is to derive meaningful insights from the data that can help in decision-making processes within the educational institution.
+
+This project serves as a practical demonstration of applying SQL skills to a real-world scenario, showcasing the versatility of SQL. It provides a comprehensive framework for managing and analyzing data in an educational institution.
