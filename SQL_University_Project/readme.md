@@ -1,4 +1,4 @@
-# SQL - EDA.
+# [SQL - EDA.](https://github.com/din3shn/DA_Portfolio_Proj/blob/main/SQL_University_Project/University_Project_Solution.sql)
 
 - **Intro** : This project involves analyzing a comprehensive university database. The database schema consists of multiple tables containing data about students, courses, teachers and more. All the tables have a primary or a foreign key. This project involves writing complex SQL queries to extract meaningful insights from the university database. The queries make extensive use of joins, aggregate functions, and the GROUP BY clause to answer specific questions which you can find below about the university's operations.
    - This project was done on MS SQL Server.</sub>
