@@ -59,7 +59,7 @@ the data_mart schema named clean_weekly_sales and perform the following operatio
 **7**. Generate a new avg_transaction column rounded to 2 decimal places.
 
 
-### Data Exploration Problems : 
+- ### Data Exploration Problems : 
 
 **1**. Which week numbers are missing from the dataset?
 
