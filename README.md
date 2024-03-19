@@ -6,7 +6,6 @@ The projects cover a wide range of domains and present a comprehensive view of m
 
 Feel free to explore the projects and reach out if you have any questions or feedback. I’m always open to collaboration and learning opportunities. 
 
-Thank you for visiting my portfolio!
 
 ## 🧰 Skills
 
