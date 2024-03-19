@@ -4,9 +4,20 @@ This portfolio is a compilation of projects that showcase my skills and expertis
 
 The projects cover a wide range of domains and present a comprehensive view of my analytical abilities. They highlight my proficiency in deriving meaningful insights from data and translating these insights into actionable business strategies.
 
-Feel free to explore the projects and reach out if you have any questions or feedback. I’m always open to collaboration and learning opportunities. Thank you for visiting my portfolio!
+Feel free to explore the projects and reach out if you have any questions or feedback. I’m always open to collaboration and learning opportunities. 
 
-# Projects
+Thank you for visiting my portfolio!
+
+## 🧰 Skills
+
+- **SQL**: Proficient in writing complex queries for data extraction, manipulation, and analysis.
+    - (MySQL, SQL Server, PostgreSQL)
+- **Excel**: Experienced in data cleaning, manipulation, and analysis using advanced Excel functions and pivot tables.
+    - (Formulas, PivotTables, Data Analysis Tools)
+- **Power BI**: Skilled in creating interactive dashboards and reports to visualize data and derive insights.
+- **Tableau**: Proficient in building visualizations, dashboards, and stories in Tableau.
+
+## Projects
 
    ### SQL 
 [Data Cleansing and Exploration](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_DataMart_Project).
