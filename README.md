@@ -16,7 +16,7 @@ Feel free to explore the projects and reach out if you have any questions or fee
 - **Power BI**: Skilled in creating interactive dashboards and reports to visualize data and derive insights.
 - **Tableau**: Proficient in building visualizations, dashboards, and stories in Tableau.
 
-## Projects
+## 📈 Projects
 
    ### SQL 
 [Data Cleansing and Exploration](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_DataMart_Project).
