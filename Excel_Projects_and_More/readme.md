@@ -1,6 +1,6 @@
 # Excel Projects and More
 
-### Introduction
+### 📊 Introduction
 
 Hello and welcome to my repository dedicated to Excel portfolio projects and skill demonstrations. 
 <br>
@@ -25,6 +25,10 @@ Each project in this repository is contained in its own Excel file, complete wit
 
 - Superstore Sales Analysis and Dashboard
 
-    The “Superstore Sales Analysis and Dashboard” project in Excel is a comprehensive data visualization and analysis portfolio piece. It involves a detailed examination of a superstore’s sales data to uncover trends, patterns, and insights. The dashboard provides an interactive interface for stakeholders to explore various metrics such as sales performance, product categories, and customer segments. Key Excel features used include PivotTables, charts, slicers, and formulas to facilitate dynamic data exploration and reporting. This project demonstrates the ability to transform raw data into a meaningful story that can drive business decisions.
+    - The “Superstore Sales Analysis and Dashboard” project in Excel is a comprehensive data visualization and analysis portfolio piece.
+    - It involves a detailed examination of a superstore’s sales data to uncover trends, patterns, and insights.
+    - The dashboard provides an interactive interface for stakeholders to explore various metrics such as sales performance, product categories, and customer segments.
+    - Key Excel features used include PivotTables, charts, slicers, and formulas to facilitate dynamic data exploration and reporting.
+    - This project demonstrates the ability to transform raw data into a meaningful story that can drive business decisions.
 
 - Uber Rides Data Analysis
