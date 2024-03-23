@@ -23,7 +23,7 @@ Also, you'll find a variety of Excel files showcasing my expertise in data analy
 
 Each project in this repository is contained in its own Excel file. Click on the titles to navigate to the project :
 
-- [Superstore Sales Analysis Dashboard](https://github.com/din3shn/DA_Portfolio_Proj/blob/main/Excel_Projects_and_More/Superstore_Dashboard/Superstore_Sales_Dashboard.xlsx)
+- [Superstore Sales Analysis Dashboard](https://github.com/din3shn/DA_Portfolio_Proj/blob/main/Excel_Projects_and_More/Superstore_Dashboard)
     
   The “Superstore Sales Analysis and Dashboard” project in Excel is a comprehensive data visualization and analysis portfolio piece.<br>
   It involves a detailed examination of a superstore’s sales data to uncover trends, patterns, and insights.<br>
@@ -31,7 +31,7 @@ Each project in this repository is contained in its own Excel file. Click on the
   Key Excel features used include PivotTables, charts, slicers, and formulas to facilitate dynamic data exploration and reporting.<br>
   This project demonstrates the ability to transform raw data into a meaningful story that can drive business decisions.<br>
 
-- [Uber Rides Data Analysis](https://github.com/din3shn/DA_Portfolio_Proj/blob/main/Excel_Projects_and_More/Uber_Rides_Analysis/uber.xlsx)
+- [Uber Rides Data Analysis](https://github.com/din3shn/DA_Portfolio_Proj/blob/main/Excel_Projects_and_More/Uber_Rides_Analysis)
 
     The "Uber Ride Data Analysis" project is dedicated to the analysis of Uber rides data, focusing on cleaning, manipulating 
     and analyzing the dataset to answer key business questions. <br> The project aims to provide insights into ride patterns, driver efficiency, and customer           preferences. <br> 
