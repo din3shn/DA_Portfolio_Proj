@@ -1,4 +1,4 @@
-## Excel Skills Showcase Repository 📊
+## Excel Repository 📊
 
 Welcome to my Excel Skills Repository!<br>
 This repository is a comprehensive collection of Excel files, each demonstrating a different set of skills and formulas. <br>
