@@ -21,7 +21,7 @@ Also, you'll find a variety of Excel files showcasing my expertise in data analy
 
 ### 📁 Portfolio Projects
 
-Each project in this repository is contained in its own Excel file, complete with detailed annotations and instructions on how to interact with the data:
+Each project in this repository is contained in its own Excel file. Click on the titles to navigate to the project :
 
 - [Superstore Sales Analysis Dashboard](https://github.com/din3shn/DA_Portfolio_Proj/blob/main/Excel_Projects_and_More/Superstore_Dashboard/Superstore_Sales_Dashboard.xlsx)
   
@@ -35,4 +35,16 @@ Each project in this repository is contained in its own Excel file, complete wit
   This project demonstrates the ability to transform raw data into a meaningful story that can drive business decisions.<br>
 <br>
 
-- [Uber Rides Data Analysis]
+- [Uber Rides Data Analysis](https://github.com/din3shn/DA_Portfolio_Proj/blob/main/Excel_Projects_and_More/Uber_Rides_Analysis/uber.xlsx)
+
+    The "Uber Ride Data Analysis" project is dedicated to the analysis of Uber rides data, focusing on cleaning, manipulating 
+    and analyzing the dataset to answer key business questions. <br> The project aims to provide insights into ride patterns, driver efficiency, and customer           preferences.
+  
+      The questions answered in the analysis process:
+            1. Distinct Start and Stop Locations.
+            2. Count of Distinct Start and Stop locations.
+            3. Most travelled Start and Stop locations.
+            4. Most Miles Travelled between locations.
+            5. Highest and Lowest Speed.
+            6. Highest and Avg Speed and Category.
+            7. Highest and Avg Speed and Purpose.
