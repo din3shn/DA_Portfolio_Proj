@@ -22,9 +22,9 @@ Feel free to explore the projects and reach out if you have any questions or fee
 [Data Cleansing and Exploration](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_DataMart_Project).
 
     - This Sales Analysis project involves analyzing a sales dataset using SQL. 
-    - The project focuses on understanding the relationships between various entities in the sales domain. 
+    - The project focuses on understanding the relationships between various entities in sales domain. 
     - Key operations performed include data manipulation, and analysis using SQL functions. 
-    - The core of the project involves writing complex SQL queries to extract insights from the data. 
+    - The core of the project involves writing complex SQL queries to extract insights. 
     - The goal of the project is to answer specific business questions that can 
       help in decision-making processes in sales domain. 
     - This project serves as a practical demonstration of applying SQL skills to a 
@@ -33,10 +33,11 @@ Feel free to explore the projects and reach out if you have any questions or fee
 [Exploratory Data Analysis - EDA](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_University_Project).
 
     - This SQL project involves analyzing a comprehensive university database.
-    - The database schema includes various entities representing different aspects of a university’s operations.
+    - The database schema includes various entities representing a university’s operations.
     - The project primarily focuses on understanding the relationships between these entities.
-    - Key operations performed include data extraction using complex SQL queries, data manipulation, and data analysis.
-    - The goal of the project is to derive insights from the data that can help in decision-making within the institution.
+    - Key operations performed include data extraction using complex SQL queries, 
+      data manipulation, and data analysis.
+    - The goal of the project is to derive insights from the data that can help in decision-making.
     - This project serves as a practical demonstration of applying SQL skills to a real-world scenario.
     - It provides a comprehensive framework for managing and analyzing data in an educational institution.
 
@@ -44,17 +45,20 @@ Feel free to explore the projects and reach out if you have any questions or fee
 
 [Superstore Sales Analysis Dashboard](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/)
 
-    - The “Superstore Sales Analysis and Dashboard” project in Excel is a comprehensive data visualization and analysis project.
-    - It involves a detailed examination of a superstore’s sales data to uncover trends, patterns, and insights.
+    - The “Superstore Sales Analysis and Dashboard” project is a comprehensive data visualization project.
+    - It involves a detailed examination of a superstore’s sales data to uncover trends, 
+      patterns, and insights.
     - The dashboard provides an interactive interface to explore various metrics such as sales, 
       categories and customer segments.
-    - Key Excel features used include PivotTables, charts, slicers to facilitate dynamic data exploration and reporting.
-    - This project demonstrates the ability to transform raw data into a meaningful story that can drive business decisions.
+    - Key Excel features used include PivotTables, charts, 
+      slicers to facilitate dynamic data exploration and reporting.
+    - This project demonstrates the ability to transform data into a visual that can drive business decisions.
 
 [Uber Ride Data Analysis](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/)
 
     - This project is dedicated to the analysis of Uber rides data. 
     - Focused on cleaning, manipulating, and analyzing the dataset to answer key business questions. 
-    - The project aims to provide insights into ride patterns, driver efficiency, and customer preferences.
+    - The project aims to provide insights into ride patterns, 
+      driver efficiency, and customer preferences.
     - Operations performed include Data Cleaning, Manipulation and Analysis using pivot tables.
     - You can find the raw dataset and clean dataset and the analysis part in different sheets in the workbook.
