@@ -49,3 +49,9 @@ Feel free to explore the projects and reach out if you have any questions or fee
     This project demonstrates the ability to transform raw data into a meaningful story that can drive business decisions.
 
 [Uber Ride Data Analysis](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/Uber_Rides_Analysis)
+
+    This project is dedicated to the analysis of Uber rides data. 
+    Focused on cleaning, manipulating, and analyzing the dataset to answer key business questions. 
+    The project aims to provide insights into ride patterns, driver efficiency, and customer preferences.
+    Operations performed include Data Cleaning, Manipulation and Analysis using pivot tables.
+    You can find the raw dataset and clean dataset and the analysis part in different sheets in the workbook.
