@@ -1,4 +1,4 @@
-## [Uber Ride Data Analysis:](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/Uber_Rides_Analysis)
+## [Uber Ride Data Analysis:](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/Uber_Rides_Analysis/uber.xlsx)
 
 Welcome to the Uber rides data analysis project based on Excel. <br>
 This project is designed to provide a comprehensive look at Uber’s ride data, with an emphasis on data cleaning, manipulation 
