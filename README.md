@@ -18,7 +18,7 @@ Feel free to explore the projects and reach out if you have any questions or fee
 
 ## 📈 Projects
 
-   ## SQL 
+## SQL 
 [Data Cleansing and Exploration](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_DataMart_Project).
 
     This Sales Analysis project involves analyzing a sales dataset using SQL. 
@@ -37,3 +37,15 @@ Feel free to explore the projects and reach out if you have any questions or fee
     The goal of the project is to derive insights from the data that can help in decision-making within the institution.
     This project serves as a practical demonstration of applying SQL skills to a real-world scenario.
     It provides a comprehensive framework for managing and analyzing data in an educational institution.
+
+## Excel
+
+[Superstore Sales Analysis Dashboard](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/Superstore_Dashboard)
+
+    The “Superstore Sales Analysis and Dashboard” project in Excel is a comprehensive data visualization and analysis project.
+    It involves a detailed examination of a superstore’s sales data to uncover trends, patterns, and insights.
+    The dashboard provides an interactive interface to explore various metrics such as sales, product categories and customer segments.
+    Key Excel features used include PivotTables, charts, slicers, and formulas to facilitate dynamic data exploration and reporting.
+    This project demonstrates the ability to transform raw data into a meaningful story that can drive business decisions.
+
+[Uber Ride Data Analysis](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/Uber_Rides_Analysis)
