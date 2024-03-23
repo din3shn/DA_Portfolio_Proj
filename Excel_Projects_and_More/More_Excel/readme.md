@@ -1,6 +1,6 @@
 ## Excel Repository 📊
 
-Welcome to my Excel Skills Repository!<br>
+Welcome to my Excel Repository!<br>
 This repository is a comprehensive collection of Excel files, each demonstrating a different set of skills and formulas. <br>
 The datasets vary across files, providing a rich resource for anyone looking to enhance their Excel proficiency.
 
