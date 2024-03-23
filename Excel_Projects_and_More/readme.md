@@ -4,20 +4,20 @@
 
 Hello and welcome to my repository dedicated to Excel portfolio projects and skill demonstrations. 
 <br>
-This repository serves as a platform to demonstrate my proficiency in Excel. It includes projects that highlight my ability to leverage Excel's features to derive insights and make data-driven decisions. 
+It includes projects that highlight my ability to leverage Excel's features to derive insights and make data-driven decisions. 
 <br>
 Also, you'll find a variety of Excel files showcasing my expertise in data analysis, visualization, and manipulation using Microsoft Excel.
 
 ### 🛠 Skills Demonstrated
 
-- Data Cleaning and Validation
-- Advanced Formulas and Functions
-- PivotTables and PivotCharts
-- Interactive Dashboards and Reports
-- Macros
-- Power Pivot - Data Modeling
-- KPIs and Measures
-- What-If Analysis
+    - Data Cleaning and Validation
+    - Advanced Formulas and Functions
+    - PivotTables and PivotCharts
+    - Interactive Dashboards and Reports
+    - Macros
+    - Power Pivot - Data Modeling
+    - KPIs and Measures
+    - What-If Analysis
 
 ### 📁 Portfolio Projects
 
