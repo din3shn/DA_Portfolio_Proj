@@ -44,8 +44,8 @@ Feel free to explore the projects and reach out if you have any questions or fee
 
     The “Superstore Sales Analysis and Dashboard” project in Excel is a comprehensive data visualization and analysis project.
     It involves a detailed examination of a superstore’s sales data to uncover trends, patterns, and insights.
-    The dashboard provides an interactive interface to explore various metrics such as sales, product categories and customer segments.
-    Key Excel features used include PivotTables, charts, slicers, and formulas to facilitate dynamic data exploration and reporting.
+    The dashboard provides an interactive interface to explore various metrics such as sales, categories and customer segments.
+    Key Excel features used include PivotTables, charts, slicers to facilitate dynamic data exploration and reporting.
     This project demonstrates the ability to transform raw data into a meaningful story that can drive business decisions.
 
 [Uber Ride Data Analysis](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/Uber_Rides_Analysis)
