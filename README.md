@@ -52,7 +52,7 @@ Feel free to explore the projects and reach out if you have any questions or fee
       categories and customer segments.
     - Key Excel features used include PivotTables, charts, 
       slicers to facilitate dynamic data exploration and reporting.
-    - This project demonstrates the ability to transform data into a visual that can drive business decisions.
+    - This project demonstrates the ability to transform data to drive business decisions.
 
 [Uber Ride Data Analysis](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/)
 
@@ -61,4 +61,4 @@ Feel free to explore the projects and reach out if you have any questions or fee
     - The project aims to provide insights into ride patterns, 
       driver efficiency, and customer preferences.
     - Operations performed include Data Cleaning, Manipulation and Analysis using pivot tables.
-    - You can find the raw dataset and clean dataset and the analysis part in different sheets in the workbook.
+    - You can find the raw dataset and the analysis part in different sheets in the workbook.
