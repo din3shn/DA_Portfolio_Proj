@@ -20,7 +20,8 @@ The dashboard provides an interactive interface for stakeholders to explore vari
     Analysis: Conducting thorough analysis to uncover trends, identify top-performing regions etc.
     Visualization: Creating visual representations of data to illustrate key findings and support decision-making.
     
-    - Insights Gained:
+### Insights Gained:
+
     Customer Insights: Understanding customer preferences and purchasing patterns.
     Operational Efficiency: Identifying areas for operational improvement and cost savings.
     Sales Performance: Evaluating sales across various categories and regions to drive strategic business growth.
