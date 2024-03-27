@@ -43,7 +43,7 @@ Feel free to explore the projects and reach out if you have any questions or fee
 
 ## Excel
 
-[Superstore Sales Analysis Dashboard](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/)
+[Superstore Sales Analysis Dashboard](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/Superstore_Dashboard)
 
     - The “Superstore Sales Analysis and Dashboard” project is a comprehensive data visualization project.
     - It involves a detailed examination of a superstore’s sales data to uncover trends, 
@@ -54,7 +54,7 @@ Feel free to explore the projects and reach out if you have any questions or fee
       slicers to facilitate dynamic data exploration and reporting.
     - This project demonstrates the ability to transform data to drive business decisions.
 
-[Uber Ride Data Analysis](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/)
+[Uber Ride Data Analysis](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/Uber_Rides_Analysis)
 
     - This project is dedicated to the analysis of Uber rides data. 
     - Focused on cleaning, manipulating, and analyzing the dataset to answer key business questions. 
