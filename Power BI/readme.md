@@ -2,9 +2,9 @@
 
 ## 📊 Introduction
 
-Hello! Welcome to my repository dedicated to Power BI.
-It includes projects that highlight my ability to leverage the features of PowerBI to derive insights and make data-driven decisions.
-Also, you'll find a variety of files showcasing my skills in data manipulation using PowerQuery and visualization using Report Builder.
+Hello! Welcome to my repository dedicated to Power BI. <br>
+It includes projects that highlight my ability to leverage the features of PowerBI to derive insights and make data-driven decisions. <br>
+Also, you'll find a variety of files showcasing my skills in data manipulation using PowerQuery and visualization using Report Builder. <br>
 
 ## 🛠 Skills Demonstrated
 
