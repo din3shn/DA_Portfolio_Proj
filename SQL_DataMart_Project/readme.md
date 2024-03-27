@@ -1,4 +1,4 @@
-# [SQL Data Cleansing and Analysis.](https://github.com/din3shn/DA_Portfolio_Proj/blob/main/SQL_DataMart_Project/Data_Mart_Sol.sql)
+# [SQL Data Cleansing and Exploration.](https://github.com/din3shn/DA_Portfolio_Proj/blob/main/SQL_DataMart_Project/Data_Mart_Sol.sql)
 
 - **Intro** : This project involves analyzing a store's sales data across multiple platforms and segments using SQL. The process begins with data cleaning to ensure data quality and to simplify the further process. Then, we use SQL queries to answer specific questions about sales trends, customer behavior, and more. The aim is to demonstrate the use SQL in data cleaning and analysis, to derive valuable business insights.
    - This project was done on MySQL Workbench.</sub>
