@@ -18,7 +18,7 @@ Feel free to explore the projects and reach out if you have any questions or fee
 
 ## 📈 Projects
 
-## SQL 
+## <img width="35" height="30" src="https://img.icons8.com/fluency/48/database--v1.png" alt="database--v1"/> SQL 
 [Data Cleansing and Exploration](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_DataMart_Project).
 
     - This Sales Analysis project involves analyzing a sales dataset using SQL. 
@@ -41,7 +41,7 @@ Feel free to explore the projects and reach out if you have any questions or fee
     - This project serves as a practical demonstration of applying SQL skills to a real-world scenario.
     - It provides a comprehensive framework for managing and analyzing data in an educational institution.
 
-## Excel
+## <img width="35" height="30" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> Excel
 
 [Superstore Sales Analysis Dashboard](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/Superstore_Dashboard)
 
@@ -63,7 +63,7 @@ Feel free to explore the projects and reach out if you have any questions or fee
     - Operations performed include Data Cleaning, Manipulation and Analysis using pivot tables.
     - You can find the raw dataset and the analysis part in different sheets in the workbook.
 
-## Power BI
+## <img width="35" height="30" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/> Power BI
 
 [Superstore Sales Report](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Power%20BI/Superstore)
 
