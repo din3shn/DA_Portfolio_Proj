@@ -62,3 +62,29 @@ Feel free to explore the projects and reach out if you have any questions or fee
       driver efficiency, and customer preferences.
     - Operations performed include Data Cleaning, Manipulation and Analysis using pivot tables.
     - You can find the raw dataset and the analysis part in different sheets in the workbook.
+
+## Power BI
+
+[Superstore Sales Report](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Power%20BI/Superstore)
+
+    - The “Superstore Sales Analysis and Dashboard” project is an extensive data visualization initiative.
+    - It entails a thorough analysis of a superstore’s sales data to discover trends, patterns, and insights.
+    - The dashboard offers an interactive platform to investigate various metrics such as sales, 
+      categories, and customer segments.
+    - Key Power BI features utilized include data cleaning, visualizations, 
+      and slicers to enable dynamic data exploration and reporting.
+    - This project exemplifies the capability to convert raw data into insights that can guide business decisions.
+
+[Employee Survey Dashboard](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Power%20BI/EMP_Survey)
+
+    - The “Employee Survey Analysis and Dashboard” project is a comprehensive data visualization endeavor.
+    - It conducts an in-depth analysis of survey data from employees to identify trends, patterns, and insights.
+    - The dashboard provides an interactive interface for stakeholders to examine metrics such as employee demographics,
+      programming language preferences, and salary distributions.
+    - Key Power BI features leveraged include Power Query, DAX expressions, interactive visualizations
+      to support data examination and reporting.
+    - This project showcases the ability to transform survey data into strategic insights that can influence decisions.
+    
+
+
+
