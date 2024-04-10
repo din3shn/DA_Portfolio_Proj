@@ -1,4 +1,4 @@
-# Welcome to my Data Analyst Portfolio!
+# Welcome to my Portfolio!
 
 This portfolio is a compilation of projects that showcase my skills and expertise in data analysis. Each project demonstrates my ability to extract, clean, and analyze data using various tools such as SQL, Excel, Power BI, and Tableau.
 
@@ -63,7 +63,7 @@ Feel free to explore the projects and reach out if you have any questions or fee
     - Operations performed include Data Cleaning, Manipulation and Analysis using pivot tables.
     - You can find the raw dataset and the analysis part in different sheets in the workbook.
 
-## <img width="35" height="30" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/> Power BI
+## <img width="35" height="30" src="https://img.icons8.com/color/48/power-bi-2021.png" alt="power-bi-2021"/> [Power BI](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Power%20BI)
 
 [Superstore Sales Report](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Power%20BI/Superstore)
 
