@@ -8,6 +8,8 @@ By leveraging Power BI’s robust data modeling and interactive visualization ca
 fostering informed decision-making regarding talent management and organizational growth. <br>
 The project underscores the potential of Power BI to transform complex datasets into compelling narratives and intuitive, data-driven interfaces.<br>
 
+![image](https://github.com/din3shn/DA_Portfolio_Proj/assets/160537914/f01b5a97-b9f5-43ea-86cd-0faf5599f284)
+<br><br>
 ## Features
 
     - Interactive Filters: Navigate through the data with interactive slicers for different demographic attributes.
