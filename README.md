@@ -41,7 +41,7 @@ Feel free to explore the projects and reach out if you have any questions or fee
     - This project serves as a practical demonstration of applying SQL skills to a real-world scenario.
     - It provides a comprehensive framework for managing and analyzing data in an educational institution.
 
-## <img width="35" height="30" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> Excel
+## <img width="35" height="30" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> [Excel](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More)
 
 [Superstore Sales Analysis Dashboard](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/Superstore_Dashboard)
 
