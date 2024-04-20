@@ -13,13 +13,15 @@ It is a huge dataset with many tables but for this project, we are analysing the
 The dataset includes information related to sales, products, customers etc.<br>
 
 ## Tools Used  🛠️
-    SQL Server Management Studio (SSMS):
-    - Used for data cleansing, transformation, and querying.
-    - Performed tasks such as removing duplicates, handling missing values, and aggregating data.
-    Power BI:
-    - Imported the cleaned data from CSV files.
-    - Power Query for more data transformations.
-    - Created visualizations (charts, tables, etc.) to gain insights.
+- SQL Server Management Studio (SSMS):
+
+        - Used for data cleansing, transformation, and querying.
+        - Performed tasks such as removing duplicates, handling missing values, and aggregating data.
+- Power BI:
+
+        - Imported the cleaned data from CSV files.
+        - Power Query for more data transformations.
+        - Created visualizations (charts, tables, etc.) to gain insights.
 
 ## Data Preparation  🔄
 The data preparation process involved the following steps:
