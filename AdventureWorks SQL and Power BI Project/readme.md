@@ -6,6 +6,10 @@
 This repository contains a data analysis project based on the Adventure Works dataset provided by Microsoft. <br>
 The focus of this analysis is on the Internet Sales schema. <br>
 We’ll explore the data, perform data cleansing and transformation using SQL Server Management Studio (SSMS), save the results in CSV format, and create visualizations using Power BI.
+<p align="center">
+  <img src="https://github.com/din3shn/DA_Portfolio_Proj/assets/160537914/0b39f2a2-08d6-422c-8835-c03bc6c08d71" width="45%" alt="Home Page" />
+  <img src="https://github.com/din3shn/DA_Portfolio_Proj/assets/160537914/c48c330a-f22e-4944-b86e-b2f36e0a476e" width="45%" alt="Overview" />
+</p>
 
 ### Dataset  📁
 Adventure Works is a sample database provided by Microsoft for learning and practice.<br>
@@ -22,6 +26,10 @@ The dataset includes information related to sales, products, customers etc.<br>
         - Imported the cleaned data from CSV files.
         - Power Query for more data transformations.
         - Created visualizations (charts, tables, etc.) to gain insights.
+<p align="center">
+<img src="https://github.com/din3shn/DA_Portfolio_Proj/assets/160537914/bb6c7383-6ff9-4f95-80e0-00b115a3a107" width="45%" alt="Customer Details" />
+<img src="https://github.com/din3shn/DA_Portfolio_Proj/assets/160537914/9add53b4-7849-4b63-938a-1d368b81ed3e" width="45%" alt="Product Details" />
+</p>
 
 ## Data Preparation  🔄
 The data preparation process involved the following steps:
