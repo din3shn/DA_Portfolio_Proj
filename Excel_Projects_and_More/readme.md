@@ -35,7 +35,7 @@ Each project in this repository is contained in its own Excel file. Click on the
 
     The "Uber Ride Data Analysis" project is dedicated to the analysis of Uber rides data, focusing on cleaning, manipulating 
     and analyzing the dataset to answer key business questions. <br> The project aims to provide insights into ride patterns, driver efficiency, and customer           preferences. <br> 
-    Key Excel features used include PivotTables, charts, slicers, and formulas to facilitate dynamic data exploration and reporting.<br>
+    Key Excel features used include PivotTables and formulas to facilitate dynamic data exploration and reporting.<br>
     This project is designed to provide a comprehensive look at Uber’s ride data, with an emphasis on data cleaning, manipulation, and answering critical questions to derive meaningful insights. <br>
 
 ## 📁 [And more..](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/More_Excel)
