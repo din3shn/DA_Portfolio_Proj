@@ -19,7 +19,6 @@ Feel free to explore the projects and reach out if you have any questions or fee
 ## 📈 Projects
 
 ## [AdventureWorks SQL and Power BI Project](https://medium.com/@din3shn/analyzing-online-sales-with-sql-and-power-bi-6ef460e0b98b)
-
 [Click for Files](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/AdventureWorks%20SQL%20and%20Power%20BI%20Project)
 
 
@@ -40,6 +39,17 @@ Power BI Visualization:
 Key Findings:
 - Uncovered sales trends, customer demographics, and product insights through visualizations.
 - Identified top-selling products, sales performance over time, and customer purchasing patterns etc.
+
+## [Bank Loan Analysis Dashboard](https://medium.com/@din3shn/distinguishing-good-loans-from-bad-loans-fc687f1b3a7b)
+[Click for Files](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/Bank_Loan_Analysis)
+
+- Comprehensive Loan Performance Analysis: Utilized advanced data analytics to differentiate between ‘Good Loans’ and ‘Bad Loans’ within a bank’s loan portfolio.
+- Data Cleaning : Executed thorough data cleaning processes to ensure the integrity and accuracy of the loan dataset for analysis.
+- Pivot Tables: Employed pivot tables to extract key insights, revealing trends and patterns in loan distribution, approval rates, and default rates.
+- Visualization: Created intuitive maps, line charts, and donut charts to visually represent the geographical distribution of loans and the status of loan repayments over time.
+- Strategic KPI Development: Defined and analyzed Key Performance Indicators (KPIs) to assess the health of the loan portfolio and guide strategic decision-making.
+- Actionable Recommendations: Provided recommendations for enhanced risk assessment and dynamic loan portfolio management based on data-driven findings.
+        
 
 ## <img width="35" height="30" src="https://img.icons8.com/fluency/48/database--v1.png" alt="database--v1"/> SQL 
 [Data Cleansing and Exploration](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_DataMart_Project).
@@ -65,21 +75,6 @@ Key Findings:
     - It provides a comprehensive framework for managing and analyzing data in an educational institution.
 
 ## <img width="35" height="30" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> [Excel](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More)
-
-[Bank Loan Analysis Dashboard](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/Bank_Loan_Analysis)
-
-    - Comprehensive Loan Performance Analysis: Utilized advanced data analytics to differentiate between
-        ‘Good Loans’ and ‘Bad Loans’ within a bank’s loan portfolio.
-    - Data Cleaning : Executed thorough data cleaning processes to ensure the integrity 
-        and accuracy of the loan dataset for analysis.
-    - Pivot Tables: Employed pivot tables to extract key insights, revealing trends and patterns in 
-        loan distribution, approval rates, and default rates.
-    - Visualization: Created intuitive maps, line charts, and donut charts to visually represent the geographical
-        distribution of loans and the status of loan repayments over time.
-    - Strategic KPI Development: Defined and analyzed Key Performance Indicators (KPIs)
-        to assess the health of the loan portfolio and guide strategic decision-making.
-    - Actionable Recommendations: Provided recommendations for enhanced risk assessment and dynamic loan
-        portfolio management based on data-driven findings.
 
 [Uber Ride Data Analysis](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/Uber_Rides_Analysis)
 
