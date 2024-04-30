@@ -43,16 +43,20 @@ Feel free to explore the projects and reach out if you have any questions or fee
 
 ## <img width="35" height="30" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> [Excel](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More)
 
-[Superstore Sales Analysis Dashboard](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/Superstore_Dashboard)
+[Bank Loan Analysis Dashboard](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/Bank_Loan_Analysis)
 
-    - The “Superstore Sales Analysis and Dashboard” project is a comprehensive data visualization project.
-    - It involves a detailed examination of a superstore’s sales data to uncover trends, 
-      patterns, and insights.
-    - The dashboard provides an interactive interface to explore various metrics such as sales, 
-      categories and customer segments.
-    - Key Excel features used include PivotTables, charts, 
-      slicers to facilitate dynamic data exploration and reporting.
-    - This project demonstrates the ability to transform data to drive business decisions.
+    - Comprehensive Loan Performance Analysis: Utilized advanced data analytics to differentiate between
+        ‘Good Loans’ and ‘Bad Loans’ within a bank’s loan portfolio.
+    - Data Cleaning : Executed thorough data cleaning processes to ensure the integrity 
+        and accuracy of the loan dataset for analysis.
+    - Pivot Tables: Employed pivot tables to extract key insights, revealing trends and patterns in 
+        loan distribution, approval rates, and default rates.
+    - Visualization: Created intuitive maps, line charts, and donut charts to visually represent the geographical
+        distribution of loans and the status of loan repayments over time.
+    - Strategic KPI Development: Defined and analyzed Key Performance Indicators (KPIs)
+        to assess the health of the loan portfolio and guide strategic decision-making.
+    - Actionable Recommendations: Provided recommendations for enhanced risk assessment and dynamic loan
+        portfolio management based on data-driven findings.
 
 [Uber Ride Data Analysis](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Excel_Projects_and_More/Uber_Rides_Analysis)
 
