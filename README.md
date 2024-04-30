@@ -18,7 +18,10 @@ Feel free to explore the projects and reach out if you have any questions or fee
 
 ## 📈 Projects
 
-## [AdventureWorks SQL and Power BI Project](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/AdventureWorks%20SQL%20and%20Power%20BI%20Project)
+## [AdventureWorks SQL and Power BI Project](https://medium.com/@din3shn/analyzing-online-sales-with-sql-and-power-bi-6ef460e0b98b)
+
+[Click for Files](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/AdventureWorks%20SQL%20and%20Power%20BI%20Project)
+
 
 Analyze the Adventure Works dataset focusing on the Internet Sales schema. Used transactional data to gain insights into customer behavior and product performance.
 
