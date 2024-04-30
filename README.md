@@ -18,6 +18,26 @@ Feel free to explore the projects and reach out if you have any questions or fee
 
 ## 📈 Projects
 
+## [AdventureWorks SQL and Power BI Project](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/AdventureWorks%20SQL%20and%20Power%20BI%20Project)
+
+Analyze the Adventure Works dataset focusing on the Internet Sales schema. Used transactional data to gain insights into customer behavior and product performance.
+
+Tools Used:
+- SQL Server Management Studio (SSMS) for data cleansing and transformation tasks.
+- Power BI for visualization and analysis.
+
+Data Cleansing and Manipulation:
+- SQL queries in SSMS to clean and standardize the dataset.
+- Extracted cleaned data into CSV files for easy import into Power BI.
+  
+Power BI Visualization:
+- Used Power Query within Power BI for additional data transformations and manipulations.
+- Imported CSV data into Power BI to create interactive visualizations.
+
+Key Findings:
+- Uncovered sales trends, customer demographics, and product insights through visualizations.
+- Identified top-selling products, sales performance over time, and customer purchasing patterns etc.
+
 ## <img width="35" height="30" src="https://img.icons8.com/fluency/48/database--v1.png" alt="database--v1"/> SQL 
 [Data Cleansing and Exploration](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/SQL_DataMart_Project).
 
