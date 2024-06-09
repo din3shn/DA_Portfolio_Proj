@@ -1,4 +1,4 @@
-# [Pizza Store Analysis- SQL](https://github.com/din3shn/DA_Portfolio_Proj/blob/main/Pizza_Store_Analysis/Pizza_Store.pdf)
+# [Pizza Store Analysis- SQL](https://github.com/din3shn/DA_Portfolio_Proj/blob/main/Pizza_Store_Analysis/Queries.sql)
 
 ## Overview
 
@@ -7,6 +7,8 @@ The aim is to perform an in-depth analysis of a pizza store's sales data to unco
 The SQL queries used in this analysis provide a comprehensive view of the store's performance, customer preferences, and revenue trends.
 
 ## Database Overview
+<sup>Click [here](https://github.com/din3shn/DA_Portfolio_Proj/tree/main/Pizza_Store_Analysis/dataset) for Dataset<sup>
+
 The analysis is conducted by querying a database that contains four tables:
 
   - **pizza_types:** Stores information about different pizza varieties, including their names, categories, and ingredients.
@@ -20,8 +22,9 @@ The analysis is conducted by querying a database that contains four tables:
 <br>
 
 ## Analysis Overview
+<sup>Click [here](https://github.com/din3shn/DA_Portfolio_Proj/blob/main/Pizza_Store_Analysis/Pizza_Store.pdf) for PDF Report<sup><br>
+
 The project aims to address the following key questions and analyses:
-Click [here](https://github.com/din3shn/DA_Portfolio_Proj/blob/main/Pizza_Store_Analysis/Queries.sql) for SQL File
 
     1. Total number of orders placed.
     2. Total revenue generated from pizza sales.
