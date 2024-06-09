@@ -1,4 +1,4 @@
-# [Pizza Store Analysis- SQL](https://github.com/din3shn/DA_Portfolio_Proj/blob/main/Pizza_Store_Analysis/Queries.sql)
+# [Pizza Store Analysis- SQL](https://medium.com/@din3shn/uncovering-insights-from-pizza-store-sales-dc02480801c3)
 
 ## Overview
 
@@ -22,7 +22,7 @@ The analysis is conducted by querying a database that contains four tables:
 <br>
 
 ## Analysis Overview
-<sup>Click [here](https://github.com/din3shn/DA_Portfolio_Proj/blob/main/Pizza_Store_Analysis/Pizza_Store.pdf) for PDF Report<sup><br>
+<sup>Click [here](https://github.com/din3shn/DA_Portfolio_Proj/blob/main/Pizza_Store_Analysis/Queries.sql) for the SQL file.<sup><br>
 
 The project aims to address the following key questions and analyses:
 
