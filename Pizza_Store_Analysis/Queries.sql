@@ -1,3 +1,5 @@
+-- Select the Database
+
 use pizza_storeDB;
 
 -- Retrieve the total number of orders placed.
