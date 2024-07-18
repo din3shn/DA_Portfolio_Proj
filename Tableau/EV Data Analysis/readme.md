@@ -45,8 +45,3 @@ The dashboard provides a visual representation of key EV market data, including:
 This analysis reveals a rapidly growing EV market in the US, with Tesla maintaining a dominant position. The increasing average range of EVs and the growth trend suggest improving technology and rising consumer acceptance. The geographical distribution and CAFV eligibility data highlight the potential impact of regional policies and incentives on EV adoption.
 
 This project demonstrates the power of data visualization in understanding complex market trends and can serve as a valuable resource for decision-making in the automotive, energy, and policy sectors.
-
-## Data Source
-
-This Project was inspired by [DataTutorials YouTube Channel](https://www.youtube.com/@datatutorials1) <br>
-The dataset can be found [here](https://drive.google.com/drive/folders/1YviyK5J_0LS9yBb2lNh2Fyap1xlyec7W)
