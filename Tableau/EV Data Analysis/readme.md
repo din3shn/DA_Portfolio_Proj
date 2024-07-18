@@ -16,6 +16,9 @@ The dashboard provides a visual representation of key EV market data, including:
 - Top manufacturers and models
 - Clean Alternative Fuel Vehicle (CAFV) eligibility
 
+![Screenshot 2024-07-18 230219](https://github.com/user-attachments/assets/0a08dcdc-ffbe-43ee-b46b-1847f95f4012)
+
+
 ## Key Findings
 
 1. **Market Size**: The analysis covers 150,413 electric vehicles, with an average electric range of 67.83 miles.
@@ -43,7 +46,7 @@ This analysis reveals a rapidly growing EV market in the US, with Tesla maintain
 
 This project demonstrates the power of data visualization in understanding complex market trends and can serve as a valuable resource for decision-making in the automotive, energy, and policy sectors.
 
-## Data Sources
+## Data Source
 
-This Project was inspired by [DataTutorials YouTube Channel](https://www.youtube.com/@datatutorials1). <br>
-The dataset can be found [here](https://drive.google.com/drive/folders/1YviyK5J_0LS9yBb2lNh2Fyap1xlyec7W).
+This Project was inspired by [DataTutorials YouTube Channel](https://www.youtube.com/@datatutorials1) <br>
+The dataset can be found [here](https://drive.google.com/drive/folders/1YviyK5J_0LS9yBb2lNh2Fyap1xlyec7W)
